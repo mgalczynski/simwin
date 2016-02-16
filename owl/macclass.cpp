@@ -17,20 +17,9 @@
 */
 
 // Standard Include files for all Windows functions
-#include "comincl.h"
-#include <owl\owlpch.h>
-#include <owl\inputdia.h>
-#include <owl\checkbox.h>
-#include <owl\listbox.h>
-#include <owl\validate.h>
-#include <owl\editfile.h>
-#include <owl\buttonga.h>
-#include <owl\slider.h>
-#include <owl\controlb.h>
-#include <owl\statusba.h>
-#include <owl\printer.h>
+#include "../numeric/comincl.h"
 #include "winfunc.h"
-#include "simwin.rh"
+#include "../resource/simwin.h"
 #include "simmac.h"
 #include "simcdial.h"
 #include "simdial.h"
